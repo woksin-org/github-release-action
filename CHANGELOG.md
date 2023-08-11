@@ -1,3 +1,7 @@
+# [3.0.1] - 2023-8-11[PR: #2](https://github.com/woksin-org/github-release-action/pull/2)
+## Summary
+
+
 # [3.0.0] - 2023-8-11[PR: #1](https://github.com/woksin-org/github-release-action/pull/1)
 ## Summary
 
