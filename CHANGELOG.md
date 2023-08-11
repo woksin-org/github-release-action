@@ -1,3 +1,28 @@
+# [3.0.1] - 2023-8-11[PR: #2](https://github.com/woksin-org/github-release-action/pull/2)
+## Summary
+
+
+# [3.0.0] - 2023-8-11[PR: #1](https://github.com/woksin-org/github-release-action/pull/1)
+## Summary
+
+Minor changes and improvements
+
+### Added
+
+- Describe the added features
+
+### Changed
+
+- `token` input no longer required
+- `microservice` changed to `application-name` input
+
+
+# [2.2.1] - 2022-12-7 [PR: #18](https://github.com/dolittle/github-release-action/pull/18)
+## Summary
+
+Update the deps and modernise
+
+
 # [2.2.0] - 2021-10-18 [PR: #16](https://github.com/dolittle/github-release-action/pull/16)
 ## Summary
 
